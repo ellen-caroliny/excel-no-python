@@ -1,4 +1,4 @@
-#Relatório de Vendas por Loja
+# Relatório de Vendas por Loja
 
 Este é um script Python que gera um relatório de vendas por loja a partir de um arquivo Excel e envia o relatório por e-mail usando o Outlook.
 
